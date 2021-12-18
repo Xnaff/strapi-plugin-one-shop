@@ -1,0 +1,24 @@
+{
+  "name": "one-shop",
+  "version": "0.0.0",
+  "description": "E-commerce plugin to build you own shop.",
+  "strapi": {
+    "name": "OneShop",
+    "description": "E-commerce plugin to build you own sho",
+    "kind": "plugin"
+  },
+  "dependencies": {},
+  "author": {
+    "name": "Xnaff"
+  },
+  "maintainers": [
+    {
+      "name": "Xnaff"
+    }
+  ],
+  "engines": {
+    "node": ">=12.x. <=16.x.x",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT"
+}
